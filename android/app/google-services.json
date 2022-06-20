@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "375300616142",
+    "firebase_url": "https://project-me-47f72-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "project-me-47f72",
+    "storage_bucket": "project-me-47f72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375300616142:android:64d844908dd986166c059f",
+        "android_client_info": {
+          "package_name": "com.parvez.destination.destination"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375300616142-b4ocq68ce0pbs5t3sc0qsa808h65pae1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNxiRjwVVv7K4UP4sLbTC76seXSB5CjJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375300616142-b4ocq68ce0pbs5t3sc0qsa808h65pae1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375300616142:android:adb6721ee88226c66c059f",
+        "android_client_info": {
+          "package_name": "com.supernova.amardokan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375300616142-b4ocq68ce0pbs5t3sc0qsa808h65pae1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNxiRjwVVv7K4UP4sLbTC76seXSB5CjJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375300616142-b4ocq68ce0pbs5t3sc0qsa808h65pae1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
